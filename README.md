@@ -14,3 +14,5 @@ Below you'll find information about performing common tasks.
 
 - react-native react-native run-ios 
 - react-native run-android
+
+![](gif)
